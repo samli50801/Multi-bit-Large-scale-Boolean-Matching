@@ -1,0 +1,64 @@
+INGROUP
+1 + n1
+2 - n23
+END
+INGROUP
+1 + n4
+2 - n4
+END
+INGROUP
+1 + n10
+2 + n63
+END
+INGROUP
+1 + n13
+2 - n38
+END
+INGROUP
+1 + n27
+2 + n65
+END
+INGROUP
+1 + n32
+2 - n32
+END
+INGROUP
+1 + n46
+2 + n55
+END
+INGROUP
+1 + n58
+2 + n58
+END
+INGROUP
+1 + n61
+2 - n25
+END
+INGROUP
+1 + n64
+2 + n28
+END
+INGROUP
+1 + n65
+2 + n60
+END
+INGROUP
+1 + n66
+2 - n50
+END
+OUTGROUP
+1 + n26
+2 + n34
+END
+OUTGROUP
+1 + n34
+2 + n14
+END
+OUTGROUP
+1 + n52
+2 + n59
+END
+OUTGROUP
+1 + n54
+2 + n40
+END
